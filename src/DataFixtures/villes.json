@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Nice",
+    "zipcode": "06000"
+  },
+  {
+    "name": "Saint-Denis",
+    "zipcode": "11310"
+  },
+  {
+    "name": "Aix-en-Provence",
+    "zipcode": "13080"
+  },
+  {
+    "name": "Marseille",
+    "zipcode": "13001"
+  },
+  {
+    "name": "Caen",
+    "zipcode": "14000"
+  },
+  {
+    "name": "Saint-Paul",
+    "zipcode": "19150"
+  },
+  {
+    "name": "Dijon",
+    "zipcode": "21000"
+  },
+  {
+    "name": "Besançon",
+    "zipcode": "25000"
+  },
+  {
+    "name": "Montreuil",
+    "zipcode": "28500"
+  },
+  {
+    "name": "Brest",
+    "zipcode": "29200"
+  },
+  {
+    "name": "Nîmes",
+    "zipcode": "30000"
+  },
+  {
+    "name": "Toulouse",
+    "zipcode": "31000"
+  },
+  {
+    "name": "Bordeaux",
+    "zipcode": "33000"
+  },
+  {
+    "name": "Montpellier",
+    "zipcode": "34000"
+  },
+  {
+    "name": "Rennes",
+    "zipcode": "35000"
+  },
+  {
+    "name": "Tours",
+    "zipcode": "37000"
+  },
+  {
+    "name": "Grenoble",
+    "zipcode": "38000"
+  },
+  {
+    "name": "Saint-Étienne",
+    "zipcode": "42000"
+  },
+  {
+    "name": "Nantes",
+    "zipcode": "44000"
+  },
+  {
+    "name": "Orléans",
+    "zipcode": "45000"
+  },
+  {
+    "name": "Angers",
+    "zipcode": "49000"
+  },
+  {
+    "name": "Reims",
+    "zipcode": "51100"
+  },
+  {
+    "name": "Nancy",
+    "zipcode": "54000"
+  },
+  {
+    "name": "Metz",
+    "zipcode": "57000"
+  },
+  {
+    "name": "Lille",
+    "zipcode": "59000"
+  },
+  {
+    "name": "Roubaix",
+    "zipcode": "59100"
+  },
+  {
+    "name": "Tourcoing",
+    "zipcode": "59200"
+  },
+  {
+    "name": "Clermont-Ferrand",
+    "zipcode": "63000"
+  },
+  {
+    "name": "Perpignan",
+    "zipcode": "66000"
+  },
+  {
+    "name": "Strasbourg",
+    "zipcode": "67000"
+  },
+  {
+    "name": "Mulhouse",
+    "zipcode": "68100"
+  },
+  {
+    "name": "Lyon",
+    "zipcode": "69001"
+  },
+  {
+    "name": "Villeurbanne",
+    "zipcode": "69100"
+  },
+  {
+    "name": "Le Mans",
+    "zipcode": "72000"
+  },
+  {
+    "name": "Annecy",
+    "zipcode": "74000"
+  },
+  {
+    "name": "Paris",
+    "zipcode": "75001"
+  },
+  {
+    "name": "Le Havre",
+    "zipcode": "76600"
+  },
+  {
+    "name": "Rouen",
+    "zipcode": "76000"
+  },
+  {
+    "name": "Amiens",
+    "zipcode": "80000"
+  },
+  {
+    "name": "Toulon",
+    "zipcode": "83000"
+  },
+  {
+    "name": "Avignon",
+    "zipcode": "84000"
+  },
+  {
+    "name": "Poitiers",
+    "zipcode": "86000"
+  },
+  {
+    "name": "Limoges",
+    "zipcode": "87000"
+  },
+  {
+    "name": "Boulogne-Billancourt",
+    "zipcode": "92100"
+  },
+  {
+    "name": "Nanterre",
+    "zipcode": "92000"
+  },
+  {
+    "name": "Aubervilliers",
+    "zipcode": "93300"
+  },
+  {
+    "name": "Créteil",
+    "zipcode": "94000"
+  },
+  {
+    "name": "Vitry-sur-Seine",
+    "zipcode": "94400"
+  },
+  {
+    "name": "Argenteuil",
+    "zipcode": "95100"
+  }
+]
