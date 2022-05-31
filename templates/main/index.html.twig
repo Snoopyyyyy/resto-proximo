@@ -1,5 +1,16 @@
 {% extends 'base.html.twig' %}
 
 {% block body %}
-<p>Acceuille</p>
+    <section class="container">
+        <ul>
+            {% for ville in villes %}
+                <li>{{ ville.name }}</li>
+                <ul>
+                    {% for restaurant in ville.getRestaurants() %}
+                        <li> {{ restaurant.name }} -> {{ restaurant.getProprietaireId().getDisplayName() }}</li>
+                    {% endfor %}
+                </ul>
+            {% endfor %}
+        </ul>
+    </section>
 {% endblock %}

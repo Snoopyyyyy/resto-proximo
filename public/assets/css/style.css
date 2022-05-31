@@ -1,7 +1,8 @@
-body {
-    background-color: #0dcaf0;
+.card-body {
+    background-color: #EEEEEE;
 }
 
-.card-body {
-    background-color: #DDDDDD;
+body {
+    /*background-image: url("/public/assets/img/background.png");*/
+    color: red;
 }

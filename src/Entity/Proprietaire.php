@@ -69,7 +69,7 @@ class Proprietaire implements UserInterface, PasswordAuthenticatedUserInterface
      */
     public function getUserIdentifier(): string
     {
-        return (string) $this->email;
+        return (string)$this->email;
     }
 
     /**
@@ -149,6 +149,11 @@ class Proprietaire implements UserInterface, PasswordAuthenticatedUserInterface
         $this->birth = $birth;
 
         return $this;
+    }
+
+    public function getDisplayName(): string
+    {
+        return $this->getFirstname() . " " . $this->getLastname();
     }
 
     /**
